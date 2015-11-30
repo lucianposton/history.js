@@ -1,6 +1,8 @@
 Welcome to History.js (v1.7.1 - October 4 2011)
 ==================
 
+[![Join the chat at https://gitter.im/lucianposton/history.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lucianposton/history.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Flattr this project](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=balupton&url=https://github.com/balupton/history.js&title=History.js&language=&tags=github&category=software) 
 
 
